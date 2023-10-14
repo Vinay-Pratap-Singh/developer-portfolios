@@ -49,7 +49,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alestor Aldous](http://alestor123.github.io/)
 - [Alex Michailidis](https://alexandros.tech/)
 - [Alexander Schmidt](https://alexanderschmidt.info/)
-- [Alexandre Santos](https://alexandresantosal91.github.io)
+- [Alexandre Santos](https://alexandresantos.vercel.app)
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Spittel](http://alispit.tel)
